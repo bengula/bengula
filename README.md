@@ -3,7 +3,7 @@
 Welcome to my GitHub page! I am a **Data Scientist** and **Economist** currently working on becoming a **DevOps Engineer**. I'm passionate about solving complex problems using data-driven approaches and automation. My journey into DevOps has been fueled by a desire to streamline processes, enhance system reliability, and optimize performance. I'm also actively learning **Linux** as part of my DevOps toolkit.
 
 <div style="text-align: center;">
-    <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%; margin-top: 20px;">
+    <img src="/Images/bengula.jpg " alt="Profile Picture" style="border-radius: 50%; margin-top: 20px;">
 </div>
 
 ## 🔭 I’m currently working on ...
@@ -25,12 +25,13 @@ I'm looking for guidance or mentorship in **Linux system administration** and **
 ## 💬 Ask me about ...
 
 Feel free to ask me about **DevOps**, **data science**, **economics**, or **machine learning algorithms**. I'm also open to discussing **software development** in Julia, Python, and Java.
+Incase you are never triggerd we can also talk about politics and religion
 
 ## 📫 How to reach me: ...
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **LinkedIn**: [Bengula Jacob](https://www.linkedin.com/in/your-profile)
+- **Email**: [your.email@example.com](mailto:kbengula@student.maseno.ac.ke)
+- **GitHub**: [Bengula](https://github.com/bengula)
 
 ## ⚡ Fun fact: ...
 
