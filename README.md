@@ -29,21 +29,27 @@ Incase you are never triggerd we can also talk about politics and religion
 
 ## 📫 How to reach me: ...
 
-- **LinkedIn**: [Bengula Jacob](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: [Bengula Jacob](https://www.linkedin.com/in/bengula/)
 - **Email**: [your.email@example.com](mailto:kbengula@student.maseno.ac.ke)
 - **GitHub**: [Bengula](https://github.com/bengula)
 
 ## ⚡ Fun fact: ...
 
-When I'm not diving into DevOps or data science, I enjoy exploring new recipes in the kitchen. I'm also fascinated by the potential of **quantum computing** and often read up on the latest advancements in the field.
+When I'm not diving into DevOps or data science, I enjoy exploring new recipes in the kitchen. I'm also fascinated by the potential  with pholosophy. I think math is the epitome of philosopy merging scince and arts. $$ \noindent My philosophy is: \textbf{Change is the only constant}, which can be expressed mathematically as:
+
+\[
+\Delta = k 
+\]
+
+\noindent Therefore, I keep learning.$$
 
 ---
 
 <div style="text-align: center; margin-top: 30px;">
-    <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/bengula/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
     </a>
-    <a href="https://github.com/your-username" style="text-decoration: none;">
+    <a href="https://github.com/bengula" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/GitHub-Follow-black" alt="GitHub Badge">
     </a>
 </div>
