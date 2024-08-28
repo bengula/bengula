@@ -9,7 +9,7 @@ Welcome to my GitHub page! I am a **Data Scientist** and **Economist** currently
 ## 🔭 I’m currently working on ...
 
 I'm focused on my transition into DevOps, honing my skills in **Linux** and mastering tools essential for a DevOps Engineer. My goal is to integrate my data science background with DevOps practices to build efficient and scalable systems.
-
+Advanced proficiency in <span class="latex">Python, R</span>, and <span class="latex">SQL</span>
 ## 🌱 I’m currently learning ...
 
 I'm currently diving deep into **Linux**, learning everything from system administration to shell scripting. This knowledge will be pivotal in my role as a DevOps Engineer. Additionally, I'm exploring the use of **CI/CD pipelines** and **containerization technologies** like Docker and Kubernetes.
@@ -24,7 +24,7 @@ I'm looking for guidance or mentorship in **Linux system administration** and **
 
 ## 💬 Ask me about ...
 
-Feel free to ask me about **DevOps**, **data science**, **economics**, or **machine learning algorithms**. I'm also open to discussing **software development** in Julia, Python, $ \LaTeX $ , and Java.
+Feel free to ask me about **DevOps**, **data science**, **economics**, or **machine learning algorithms**. I'm also open to discussing **software development** in Julia, Python, LaTeX, and Java.
 In case you are never triggered we can also talk about politics and religion
 
 ## 📫 How to reach me: ...
@@ -36,13 +36,16 @@ In case you are never triggered we can also talk about politics and religion
 ## ⚡ Fun fact: ...
 
 When I'm not diving into DevOps or data science, I enjoy exploring new recipes in the kitchen. I'm also fascinated by the potential  of philosophy. Math is the epitome of philosophy merging science and arts. 
-<span class="latex"> \noindent My philosophy is: \textbf{Change is the only constant}, which can be expressed mathematically as:
+<span class="latex"> \LaTeX </span>
+
+**My philosophy is:** _Change is the only constant_, which can be expressed mathematically as:
 
 \[
-\Delta = k 
+\Delta k \neq 0
 \]
 
-\noindent Therefore, I keep learning.</span>
+Therefore, I keep learning.
+
 
 ---
 
