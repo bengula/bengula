@@ -38,13 +38,12 @@ In case you are never triggered we can also talk about politics and religion
 When I'm not diving into DevOps or data science, I enjoy exploring new recipes in the kitchen. I'm also fascinated by the potential  of philosophy. Math is the epitome of philosophy merging science and arts. 
 <span class="latex"> \LaTeX </span>
 
-**My philosophy is:** _Change is the only constant_, which can be expressed mathematically as:
+**My philosophy is:** ** _<span style="color:blue;">Change is the only constant</span>_, which can be expressed mathematically as:
 
-\[
-\Delta k \neq 0
-\]
+![Delta k does not equal zero](https://latex.codecogs.com/png.latex?%5CDelta%20k%20%5Cneq%200)
 
 Therefore, I keep learning.
+
 
 
 ---
