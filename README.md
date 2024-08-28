@@ -24,8 +24,8 @@ I'm looking for guidance or mentorship in **Linux system administration** and **
 
 ## 💬 Ask me about ...
 
-Feel free to ask me about **DevOps**, **data science**, **economics**, or **machine learning algorithms**. I'm also open to discussing **software development** in Julia, Python, and Java.
-Incase you are never triggerd we can also talk about politics and religion
+Feel free to ask me about **DevOps**, **data science**, **economics**, or **machine learning algorithms**. I'm also open to discussing **software development** in Julia, Python, $ \LaTeX $ , and Java.
+In case you are never triggered we can also talk about politics and religion
 
 ## 📫 How to reach me: ...
 
@@ -35,13 +35,14 @@ Incase you are never triggerd we can also talk about politics and religion
 
 ## ⚡ Fun fact: ...
 
-When I'm not diving into DevOps or data science, I enjoy exploring new recipes in the kitchen. I'm also fascinated by the potential  with pholosophy. I think math is the epitome of philosopy merging scince and arts. $$ \noindent My philosophy is: \textbf{Change is the only constant}, which can be expressed mathematically as:
+When I'm not diving into DevOps or data science, I enjoy exploring new recipes in the kitchen. I'm also fascinated by the potential  of philosophy. Math is the epitome of philosophy merging science and arts. 
+<span class="latex"> \noindent My philosophy is: \textbf{Change is the only constant}, which can be expressed mathematically as:
 
 \[
 \Delta = k 
 \]
 
-\noindent Therefore, I keep learning.$$
+\noindent Therefore, I keep learning.</span>
 
 ---
 
