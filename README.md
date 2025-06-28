@@ -30,7 +30,7 @@ In case you are never triggered we can also talk about politics and religion
 ## 📫 How to reach me: ...
 
 - **LinkedIn**: [Bengula Jacob](https://www.linkedin.com/in/bengula/)
-- **Email**: [your.email@example.com](mailto:kbengula@student.maseno.ac.ke)
+- **Email**: [kbengula@maseno.ac.ke](mailto:kbengula@student.maseno.ac.ke)
 - **GitHub**: [Bengula](https://github.com/bengula)
 
 ## ⚡ Fun fact: ...
